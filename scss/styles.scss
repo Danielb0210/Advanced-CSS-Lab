@@ -47,10 +47,21 @@
 }
 
 .steam {
-    color: black;
+    color: #fff;
 }
 
-.steam:hover {
-    color: black;
-    text-decoration: none;
+.hr-dark {
+    border-top: 4px solid #4b6584;
+}
+
+.company {
+    color: #4b6584; 
+}
+
+.company:hover {
+    color: #4b6584; 
+}   
+
+.position {
+    font-size: 1.1em;
 }
