@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto+Condensed");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+  color: #2d3436;
+  text-decoration: none !important;
+}
+
+.title {
+  color: #4b6584;
+  font-size: 3.5em;
+}
+
+.location {
+  font-size: 1.1em;
+  color: #778ca3;
+  letter-spacing: 3px;
+}
+
+.biography {
+  background-color: #fff;
+  border: 3px solid #4b6584;
+}
+
+.education {
+  font-size: 1.2em;
+  color: #778ca3;
+}
+
+.nav-item {
+  font-size: 1.25em;
+}
+
+.me-title {
+  font-size: 2em;
+  color: #666;
+  text-align: center;
+}
+
+.steam {
+  color: black;
+}
